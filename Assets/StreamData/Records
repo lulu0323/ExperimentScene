@@ -83,3 +83,71 @@
     "timeCollectPanel_9": 0.0,
     "timeBoxPanel_10": 0.0
 }
+{
+    "playerMode": "激光",
+    "playerNumber": 2,
+    "playerName": "钱烨尧",
+    "playerDate": "20181011",
+    "timeEmpty_0": 0.0,
+    "timeGrabPanel_1": 0.0,
+    "timeEnlargePanel_2": 0.0,
+    "timeShrinkPanel_3": 0.0,
+    "timeRotatePanel_4": 0.0,
+    "timeViewPanel_5": 0.0,
+    "timeClosePanel_6": 0.0,
+    "timeColorPanel_7": 0.0,
+    "timeSizePanel_8": 0.0,
+    "timeCollectPanel_9": 0.0,
+    "timeBoxPanel_10": 0.0
+}
+{
+    "playerMode": "手势",
+    "playerNumber": 2,
+    "playerName": "钱烨尧",
+    "playerDate": "20181011",
+    "timeEmpty_0": 0.0,
+    "timeGrabPanel_1": 0.20300424098968507,
+    "timeEnlargePanel_2": 31.580564498901368,
+    "timeShrinkPanel_3": 24.883649826049806,
+    "timeRotatePanel_4": 9.149680137634278,
+    "timeViewPanel_5": 10.174511909484864,
+    "timeClosePanel_6": 8.75732707977295,
+    "timeColorPanel_7": 10.504125595092774,
+    "timeSizePanel_8": 7.813793659210205,
+    "timeCollectPanel_9": 4.746095180511475,
+    "timeBoxPanel_10": 18.183269500732423
+}
+{
+    "playerMode": "激光",
+    "playerNumber": 2,
+    "playerName": "钱烨尧",
+    "playerDate": "20181011",
+    "timeEmpty_0": 0.0,
+    "timeGrabPanel_1": 1.5201607942581177,
+    "timeEnlargePanel_2": 4.689365386962891,
+    "timeShrinkPanel_3": 7.050988674163818,
+    "timeRotatePanel_4": 8.623896598815918,
+    "timeViewPanel_5": 6.010019779205322,
+    "timeClosePanel_6": 2.75966477394104,
+    "timeColorPanel_7": 14.745301246643067,
+    "timeSizePanel_8": 21.371097564697267,
+    "timeCollectPanel_9": 3.6855289936065676,
+    "timeBoxPanel_10": 3.25073504447937
+}
+{
+    "playerMode": "手柄",
+    "playerNumber": 2,
+    "playerName": "钱烨尧",
+    "playerDate": "20181011",
+    "timeEmpty_0": 0.0,
+    "timeGrabPanel_1": 2.7812094688415529,
+    "timeEnlargePanel_2": 4.381916046142578,
+    "timeShrinkPanel_3": 5.090608596801758,
+    "timeRotatePanel_4": 8.067215919494629,
+    "timeViewPanel_5": 5.662834167480469,
+    "timeClosePanel_6": 2.48026967048645,
+    "timeColorPanel_7": 10.456978797912598,
+    "timeSizePanel_8": 5.370662689208984,
+    "timeCollectPanel_9": 4.790635108947754,
+    "timeBoxPanel_10": 2.8063294887542726
+}
