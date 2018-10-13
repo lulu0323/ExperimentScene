@@ -613,3 +613,54 @@
     "timeCollectPanel_9": 2.5675454139709474,
     "timeBoxPanel_10": 10.711156845092774
 }
+{
+    "playerMode": "手柄",
+    "playerNumber": 9,
+    "playerName": "毛豆",
+    "playerDate": "20181013",
+    "timeEmpty_0": 0.0,
+    "timeGrabPanel_1": 8.793011665344239,
+    "timeEnlargePanel_2": 1.7233585119247437,
+    "timeShrinkPanel_3": 3.9416797161102297,
+    "timeRotatePanel_4": 10.253418922424317,
+    "timeViewPanel_5": 12.127984046936036,
+    "timeClosePanel_6": 2.4682822227478029,
+    "timeColorPanel_7": 7.562483310699463,
+    "timeSizePanel_8": 6.767948150634766,
+    "timeCollectPanel_9": 2.023617744445801,
+    "timeBoxPanel_10": 3.5974836349487306
+}
+{
+    "playerMode": "激光",
+    "playerNumber": 9,
+    "playerName": "毛豆",
+    "playerDate": "20181013",
+    "timeEmpty_0": 0.0,
+    "timeGrabPanel_1": 1.1070929765701295,
+    "timeEnlargePanel_2": 4.380228519439697,
+    "timeShrinkPanel_3": 1.9002048969268799,
+    "timeRotatePanel_4": 17.40049934387207,
+    "timeViewPanel_5": 5.441201686859131,
+    "timeClosePanel_6": 2.1433417797088625,
+    "timeColorPanel_7": 7.073857307434082,
+    "timeSizePanel_8": 4.670327186584473,
+    "timeCollectPanel_9": 2.0905559062957765,
+    "timeBoxPanel_10": 3.2649571895599367
+}
+{
+    "playerMode": "手势",
+    "playerNumber": 9,
+    "playerName": "毛豆",
+    "playerDate": "20181013",
+    "timeEmpty_0": 0.0,
+    "timeGrabPanel_1": 1.6536667346954346,
+    "timeEnlargePanel_2": 3.2729408740997316,
+    "timeShrinkPanel_3": 5.553318023681641,
+    "timeRotatePanel_4": 13.059070587158204,
+    "timeViewPanel_5": 40.67304992675781,
+    "timeClosePanel_6": 1.5925825834274293,
+    "timeColorPanel_7": 5.67691707611084,
+    "timeSizePanel_8": 7.769082546234131,
+    "timeCollectPanel_9": 5.173884868621826,
+    "timeBoxPanel_10": 3.4273717403411867
+}
