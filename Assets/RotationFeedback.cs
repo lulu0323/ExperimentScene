@@ -14,6 +14,7 @@ public class RotationFeedback : MonoBehaviour
     public Taskinfo other;
 
     public float presentRotationY;
+    public Text a;
 
     //public Button t4;
     //public GameObject T4;
@@ -37,6 +38,7 @@ public class RotationFeedback : MonoBehaviour
     void Update()
     {
         presentRotationY = transform.eulerAngles.y; //更新的角度
+        a.text = transform.eulerAngles.ToString();
 
         if (CoolDownLeft > 0.0f)
         {
@@ -48,7 +50,7 @@ public class RotationFeedback : MonoBehaviour
 
         }
 
-        if (presentRotationY > 179 && presentRotationY < 181 && CoolDownLeft <= 0.0f && other.iftask4)
+        if (presentRotationY > 170 && presentRotationY < 190 && CoolDownLeft <= 0.0f && other.iftask4)
         {
             AudioSource.PlayClipAtPoint(clip, transform.position);
             CoolDownLeft = CoolDownTime;
