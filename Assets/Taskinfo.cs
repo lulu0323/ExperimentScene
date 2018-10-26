@@ -24,6 +24,7 @@ public class Taskinfo : MonoBehaviour {
     public GameObject Origin;
     public GameObject Bag;
     public GameObject Detail;
+    public GameObject palm;
     public Color maryJane;
 
     public bool iftask1;
@@ -74,6 +75,7 @@ public class Taskinfo : MonoBehaviour {
         iftask8 = false;
         iftask9 = false;
         iftask10 = false;
+        palm.SetActive(false);
     }
 
     public void Task1() {
@@ -130,6 +132,8 @@ public class Taskinfo : MonoBehaviour {
 
     public void Task4()
     {
+        palm.SetActive(true);
+        Bag.transform.position = new Vector3(-2.3F, 1.4F, -1);
         InteractionButton T4InteractionButton = (InteractionButton)T4.GetComponent(typeof(InteractionButton));
         T4InteractionButton.controlEnabled = false;
         T4.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
@@ -147,6 +151,7 @@ public class Taskinfo : MonoBehaviour {
 
     public void Task5()
     {
+        palm.SetActive(false);
         InteractionButton T5InteractionButton = (InteractionButton)T5.GetComponent(typeof(InteractionButton));
         T5InteractionButton.controlEnabled = false;
         T5.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;

@@ -25,7 +25,7 @@ public class ScalingFeedback : MonoBehaviour
 
     public Timer timer;
 
-    public float CoolDownTime = 10f;
+    public float CoolDownTime = 2f;
     float CoolDownLeft = 0.0f;
 
     public AudioClip clip;  //创建一个音效
